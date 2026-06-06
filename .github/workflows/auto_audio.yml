@@ -1,0 +1,14 @@
+name: Auto Audio Generator
+on:
+  push:
+    paths:
+      - 'fa/**/*.md'
+      - 'en/**/*.md'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate audio (placeholder)
+        run: echo "TODO: add edge-tts or elevenlabs integration"
