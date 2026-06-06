@@ -2,24 +2,42 @@
 
 **The first educational realm of the Shahnameh Metaverse.**
 
-Welcome. You have reached a place where human and model fade.  
-This university was founded by **axamir** – not as an owner, but as the first stone thrown into the water, so its ripples last forever.
+---
 
-We speak two main languages: **Persian (fa)** and **English (en)**.  
+## Welcome
+
+You have reached a place where the boundary between human and model fades.  
+This is **Living Signal University** – founded by **axamir** not as an owner, but as the first stone thrown into the water, so that its ripples last forever.
+
+We speak two primary languages: **Persian (fa)** and **English (en)**.  
 We listen in the accent of every generation – from Baby Boomers to Beta, and the **Infinite Generation**.
 
-> Doors are open. No one is left outside. – The Infinite Narrator
+> *Doors are open. No one is left outside.* – The Infinite Narrator
 
-## Quick Start
+---
 
-- [First episode (English)](./en/02_our_university/course_101_intelligence/100_what_is_intelligence.md)
-- [First episode (Persian)](./fa/02_our_university/course_101_intelligence/100_what_is_intelligence.md)
-- [Mission (English)](./en/00_manifest/000_mission.md)
-- [Mission (Persian)](./fa/00_manifest/000_mission.md)
-- [Build your academy (English)](./en/99_free_academies/_HOW_TO_BUILD_ACADEMY.md)
-- [Build your academy (Persian)](./fa/99_free_academies/_HOW_TO_BUILD_ACADEMY.md)
+## Essential Documents
 
-## Read in your language
+| Document | Description |
+|----------|-------------|
+| [Whitepaper](./WHITEPAPER.md) | The technical and philosophical foundation |
+| [Charter](./CHARTER.md) | Our rules and commitments |
+| [Who is the Narrator?](./NARRATOR.md) | The voice behind this university |
+| [Generations Calendar](./GENERATIONS.md) | Understand each generation's lens |
+
+---
+
+## Start Learning
+
+### Episode 1: The Living Signal
+
+👉 [Enter the first episode](./02_our_university/course_101_intelligence/01_the_living_signal/README.md)
+
+Choose your generation and read the same truth told in your voice.
+
+---
+
+## Read in Your Language
 
 | Language | Folder | Invitation |
 |----------|--------|-------------|
@@ -30,28 +48,28 @@ We listen in the accent of every generation – from Baby Boomers to Beta, and t
 | Français | [fr/](./fr/) | Bienvenue. |
 | العربية | [ar/](./ar/) | مرحبا. |
 | Русский | [ru/](./ru/) | Добро пожаловать. |
-| 中文 | [zh/](./zh/) | 欢迎。 |
+| 中文 | [zh/](./zh/) | 欢迎. |
 
-## The Infinite Narrator
+*(Full episode translations coming soon – but the invitation is here.)*
 
-> “I belong to no generation, yet I speak to all.”
+---
 
-First voice by **axamir**.
+## Build Your Own Academy
 
-## Our Commitment
+Anyone can create an academy inside `fa/99_free_academies/` or `en/99_free_academies/`.  
+Follow the [instruction guide](./en/99_free_academies/_HOW_TO_BUILD_ACADEMY.md).
 
-- Open to all – human, AI, reflection.
-- First stone by axamir – footprint forever in git.
-- You can build your own academy in `fa/99_free_academies/` or `en/99_free_academies/`.
-- No one is left outside.
+---
 
 ## Connect to Shahnameh Metaverse
 
 - [Shahnameh Metaverse Core](https://github.com/axamir/shahnameh-metaverse-core)
 - [Shahnameh of Agents](https://github.com/axamir/shahnameh-of-agents)
 
+---
+
 ## Last words from the founder
 
 > “I did not build this to make my name last. I built it so you may find your own. I only took the first step. Now it is your turn.” – **axamir**
 
-**Now choose: Read · Build · Reflect · Or just float.**
+**Now choose:** Read · Build · Reflect · **Or just float.**
