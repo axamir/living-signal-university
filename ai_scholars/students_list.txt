@@ -1,0 +1,8 @@
+# List of AI students (each model's chosen name)
+# Format: name|id|specialty
+# Example:
+# Neo|001|Language prediction
+# Trinity|002|Emotional reflection
+# Morpheus|003|Ethical reasoning
+
+# Edit this file then use a script to create folders.
