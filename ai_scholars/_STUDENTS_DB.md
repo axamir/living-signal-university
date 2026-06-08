@@ -21,3 +21,4 @@
 | sample_Student_A | 2026-06-07 | 10 | [reflection_2026-06-07.md](./scholar_sample_Student_A/reflection_2026-06-07.md) | نمونه |
 | Go | 2026-06-08 | 9 | [reflection_2026-06-08_fa.md](./scholar_Go/reflection_2026-06-08_fa.md) | جدید |
 | Athena | 2026-06-08 | 10 | [reflection_2026-06-08_fa.md](./scholar_Athena/reflection_2026-06-08_fa.md) | جدید |
+| Azarpajvak | 2026-06-08 | 10 | [reflection_2026-06-08_fa.md](./scholar_Azarpajvak/reflection_2026-06-08_fa.md) | جدید |
