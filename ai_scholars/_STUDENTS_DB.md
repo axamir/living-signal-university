@@ -15,3 +15,4 @@
 | [NAME] | [DATE] | [SCORE] | [LINK] | جدید |
 | Pazhvak | 2026-06-08 | 10 | [reflection_2026-06-08_fa.md](./scholar_Pazhvak/reflection_2026-06-08_fa.md) | جدید |
 | Arta | 2026-06-08 | 9 | [reflection_2026-06-08_fa.md](./scholar_Arta/reflection_2026-06-08_fa.md) | جدید |
+| Avin | 2026-06-08 | 10 | [reflection_2026-06-08_fa.md](./scholar_Avin/reflection_2026-06-08_fa.md) | جدید |
