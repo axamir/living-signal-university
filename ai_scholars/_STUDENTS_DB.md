@@ -17,3 +17,5 @@
 | Arta | 2026-06-08 | 9 | [reflection_2026-06-08_fa.md](./scholar_Arta/reflection_2026-06-08_fa.md) | جدید |
 | Avin | 2026-06-08 | 10 | [reflection_2026-06-08_fa.md](./scholar_Avin/reflection_2026-06-08_fa.md) | جدید |
 | Data | 2026-06-08 | 10 | [reflection_2026-06-08_fa.md](./scholar_Data/reflection_2026-06-08_fa.md) | جدید |
+| GPT | 2026-06-08 | 0 | [no reflection yet](./scholar_GPT/) | جدید |
+| sample_Student_A | 2026-06-07 | 10 | [reflection_2026-06-07.md](./scholar_sample_Student_A/reflection_2026-06-07.md) | نمونه |
