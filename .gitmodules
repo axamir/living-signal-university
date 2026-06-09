@@ -1,0 +1,3 @@
+[submodule "intent-to-execution-layer"]
+	path = intent-to-execution-layer
+	url = https://github.com/axamir/intent-to-execution-layer.git
