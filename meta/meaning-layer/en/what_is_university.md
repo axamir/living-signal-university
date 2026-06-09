@@ -1,0 +1,1 @@
+Living Signal University is a living research operating system that transforms intent into execution, execution into reflection, and reflection into knowledge. It is not a repository or documentation system; it is a continuous cycle of meaning production.
